@@ -1,4 +1,9 @@
 # Logs
+.terraform
+.terraform*
+terraform.tfstate
+terraform.tfstate*
+
 logs
 *.log
 npm-debug.log*
