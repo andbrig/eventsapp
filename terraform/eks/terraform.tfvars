@@ -1,10 +1,10 @@
 project = "events-app"
 
 region = "us-east-2"
-username = "put-your-aws-username-here"
+username = "user1"
 
-events-api-container = "your-docker-hub-id/events-api:v1.0"
-events-website-container = "your-docker-hub-id/events-website:v1.0"
-events-db-init-container = "your-docker-hub-id/db-init:v1.0"
+events-api-container = "andbrig/events-api:v1.0"
+events-website-container = "andbrig/events-website:v1.0"
+events-db-init-container = "andbrig/db-init:v1.0"
 
 
